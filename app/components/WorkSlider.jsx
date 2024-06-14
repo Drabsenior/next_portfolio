@@ -28,7 +28,7 @@ const workSlides = {
           link: "https://shop-admin-wpm8.onrender.com/",
         },
         {
-          title: "oddo custom",
+          title: "oddo erp custom",
           path: "/oddoerpcover.png",
           source: "https://github.com/Drabsenior/",
           link: "https://erp.shegapps.com",
