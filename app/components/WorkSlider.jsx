@@ -28,16 +28,16 @@ const workSlides = {
           link: "https://shop-admin-wpm8.onrender.com/",
         },
         {
-          title: "oddo erp custom",
-          path: "/oddoerpcover.png",
-          source: "https://github.com/Drabsenior/",
-          link: "https://erp.shegapps.com",
-        },
-        {
           title: "Chat room",
           path: "/chatroomcover.png",
           source: "https://github.com/Drabsenior/",
           link: "https://atlas-chat.shegapps.com",
+        },
+        {
+          title: "oddo erp custom",
+          path: "/oddoerpcover.png",
+          source: "https://github.com/Drabsenior/",
+          link: "https://erp.shegapps.com",
         },
       ],
     },
